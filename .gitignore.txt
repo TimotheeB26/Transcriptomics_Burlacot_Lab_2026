@@ -1,0 +1,17 @@
+# R environment files
+.Rhistory
+.RData
+.Rproj.user/
+
+# Intermediate and output files (do not upload large output files)
+data/processed/*
+results/*
+
+# Output image formats
+*.pdf
+*.png
+*.csv
+
+# System files
+.DS_Store
+Thumbs.db
